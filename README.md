@@ -31,6 +31,3 @@ There are two exams in this course: a mid-term and an end-term exam. The mid-ter
 
 ## 
 
-[Syllabus](https://www.notion.so/Syllabus-fc8f74dec66c4a01b4384696c07bca60)
-
-[Python IDE](https://www.notion.so/Python-IDE-bd8bf27b4cea4d20b204e67dc2fa798c)
